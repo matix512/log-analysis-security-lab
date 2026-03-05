@@ -70,7 +70,7 @@ IP Address: 192.168.1.50
 Clone the repository:
 
 
-git clone https://github.com/yourusername/log-analysis-suspicious-auth.git
+git clone [https://github.com/yourusername/log-analysis-suspicious-auth.git
 
 
 Navigate to the project folder:
@@ -136,4 +136,4 @@ Diogo Morais
 
 Aspiring **SOC Analyst / Cybersecurity Professional**
 
-LinkedIn: *(add your LinkedIn link)*
+
